@@ -1,7 +1,7 @@
 
 **Instructions**
 
-Create an endpoint that will connect a device to a holder. One holder can have multiple devices on it, and a device that is already connected to a holder cannot be connected to another holder.
+Create an endpoint that will connect a device to a holder. One holder can have multiple devices on it, and a device that is already connected to a holder can't be connected to another holder.
 
 Assign a device to the holder
 
